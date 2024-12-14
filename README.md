@@ -1,2 +1,0 @@
-# Evil-Scientist
-student projekt
